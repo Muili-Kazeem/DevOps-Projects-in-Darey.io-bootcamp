@@ -29,7 +29,7 @@
 ![Screenshot (162)](https://user-images.githubusercontent.com/69347415/193549968-70abccca-c0f1-4717-8652-d9ce06f27fd3.png)
 
 ## STEP 3: Installing PHP
-  * Installed Php alongside with additional packages such as php-mysql and libapache2-mod-php using the command `sudo apt install php libapache2-mod-php php-mysql`
+  * Installed Php alongside with additional packages such as php-fpm and php-mysql using the command `sudo apt install php-fpm php-mysql`
   * Check and confirmed for the version of PHP using `php -v`
 ![Screenshot (163)](https://user-images.githubusercontent.com/69347415/193551303-6c87184e-327f-4fba-a444-08e38f41c0d4.png)
 
